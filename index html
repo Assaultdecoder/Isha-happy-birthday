@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy Birthday Isha 🎂</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <canvas id="confetti"></canvas>
+    <h1>🎉 Happy Birthday Isha Yadav 🎂</h1>
+    <p>Wishing you a day filled with love, joy, and laughter!</p>
+    <img src="https://i.imgur.com/2DhmtJ4.jpg" alt="Birthday Girl" />
+    <p class="from">From: Anuj ❤️</p>
+  </div>
+  <audio autoplay loop>
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" />
+  </audio>
+  <script src="script.js"></script>
+</body>
+</html>
